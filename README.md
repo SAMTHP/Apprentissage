@@ -1,2 +1,2 @@
 # Apprentissage
-Tuto &amp; exercices en développement web
+Tuto et exercices en développement web
